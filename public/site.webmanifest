@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json.schemastore.org/web-manifest-combined.json",
+  "name": "LaslesVPN",
+  "short_name": "LaslesVPN",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#F53838",
+  "description": "LaslesVPN Best VPN For Privacy, Country and Cheapest.",
+  "icons": [
+    {
+       "src": "/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ]
+}
