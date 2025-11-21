@@ -7,14 +7,14 @@ const defaultMeta = {
   title: 'Apartamentos Hilda',
   siteName: 'Apartamentos Hilda',
   description:
-    'Pagina destinada a Leo e Valeria',
+    'Apartamentos para 10, 8 e 7 pessoas próximo a Basilica de Aparecida.',
   // change base url of your web (without '/' at the end)
-  url: '',
+  url: 'https://www.apartamentohilda.com/',
   type: 'website',
   robots: 'follow, index',
   // change with url of your image (recommended dimension = 1.91:1)
   // used in twitter, facebook, etc. card when link copied in tweet/status 
-  image: 'https://next-landing-vpn.vercel.app/assets/card-image.png',
+  image: '/assets/apto/logopng.png',
   author: 'Igor Castro'
 };
 

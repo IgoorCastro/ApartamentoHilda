@@ -1,5 +1,4 @@
 import React from "react";
-import LogoVPN from "../../public/assets/Logo.svg";
 import Facebook from "../../public/assets/Icon/facebook.svg";
 import Whatsapp from "../../public/assets/Icon/wpp.svg";
 import LogoApto from "../../public/assets/apto/logo.svg";

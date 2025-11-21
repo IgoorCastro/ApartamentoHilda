@@ -1,12 +1,12 @@
 {
   "$schema": "https://json.schemastore.org/web-manifest-combined.json",
-  "name": "LaslesVPN",
-  "short_name": "LaslesVPN",
+  "name": "Apartamento Hilda",
+  "short_name": "ApartamentoHilda",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#FFFFFF",
   "theme_color": "#F53838",
-  "description": "LaslesVPN Best VPN For Privacy, Country and Cheapest.",
+  "description": "Apartamentos para 10, 8 e 7 pessoas próximo a Basílica de Aparecida - SP",
   "icons": [
     {
        "src": "/favicon.ico",

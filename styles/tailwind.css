@@ -62,6 +62,25 @@ li.check:before {
   @apply bg-orange-500 rounded-l-full rounded-r-full w-12;
 }
 
+@keyframes pulse-glow {
+  0% {
+    box-shadow: 0 0 0 0 rgba(59, 130, 246, 0.5);   /* azul claro */
+  }
+  70% {
+    box-shadow: 0 0 25px 15px rgba(59, 130, 246, 0); /* espalha e some */
+  }
+  100% {
+    box-shadow: 0 0 0 0 rgba(59, 130, 246, 0); 
+  }
+}
+
+.pulse-wrapper {
+  animation: pulse-glow 2.5s infinite ease-out;
+  border-radius: 1rem; /* igual da imagem */
+  display: inline-block; /* evita esticar */
+}
+
+
 /* purgecss end ignore */
 @tailwind utilities;
 /* purgecss start ignore */
