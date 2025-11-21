@@ -106,7 +106,7 @@ const Listings = () => {
                       src="/assets/8p/sala.jpg"
                       width={265}
                       height={265}
-                      alt="Premium Plan"
+                      alt="Apartamento 8 pessoas"
                     />
                   </div>
                 </Link>
@@ -157,13 +157,13 @@ const Listings = () => {
                   }
                 }}
               >
-                <Link href="/aptos/8p/galeria">
+                <Link href="/aptos/10p/galeria">
                   <div className="w-[265px] h-[265px] p-0 mt-6 lg:mt-16 pulse-wrapper cursor-pointer">
                     <Image
-                      src="/assets/10p/p1.jpg"
+                      src="/assets/10p/p1.JPG"
                       width={265}
                       height={265}
-                      alt="Premium Plan"
+                      alt="Apartamento 10 pessoas"
                     />
                   </div>
                 </Link>
