@@ -45,13 +45,13 @@ const Listings = () => {
                 }}
               >
                 <Link href="/aptos/7p/galeria">
-                  <div className="w-[265px] h-[265px] p-0 mt-6 lg:mt-16 pulse-wrapper cursor-pointer">
+                  <div className="w-265 h-265 p-0 mt-6 lg:mt-16 pulse-wrapper cursor-pointer">
                     <Image
                       src="/assets/7p/sala1.jpg"
                       width={265}
                       height={265}
                       alt="Apartamento 7 pessoas"
-                      className="rounded-lg"
+                      className="rounded-md"
                     />
                   </div>
                 </Link>
@@ -101,12 +101,13 @@ const Listings = () => {
                 }}
               >
                 <Link href="/aptos/8p/galeria">
-                  <div className="w-[265px] h-[265px] p-0 mt-6 lg:mt-16 pulse-wrapper cursor-pointer">
+                  <div className="w-265 h-265 p-0 mt-6 lg:mt-16 pulse-wrapper cursor-pointer">
                     <Image
                       src="/assets/8p/sala.jpg"
                       width={265}
                       height={265}
                       alt="Apartamento 8 pessoas"
+                      className="rounded-md"
                     />
                   </div>
                 </Link>
@@ -158,12 +159,13 @@ const Listings = () => {
                 }}
               >
                 <Link href="/aptos/10p/galeria">
-                  <div className="w-[265px] h-[265px] p-0 mt-6 lg:mt-16 pulse-wrapper cursor-pointer">
+                  <div className="w-265 h-265 p-0 mt-6 lg:mt-16 pulse-wrapper cursor-pointer">
                     <Image
                       src="/assets/10p/p1.JPG"
                       width={265}
                       height={265}
                       alt="Apartamento 10 pessoas"
+                      className="rounded-md"
                     />
                   </div>
                 </Link>

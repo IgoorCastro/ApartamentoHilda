@@ -46,7 +46,11 @@ module.exports = {
       700: "#1D4ED8",
     },
     },
-    extend: {},
+    extend: {
+      spacing: {
+        '265': '265px', 
+      },
+    },
   },
   variants: {
     extend: {
