@@ -55,7 +55,7 @@ const Listings = () => {
                     />
                   </div>
                 </Link>
-                <p className="text-lg text-black-600 font-medium capitalize my- sm:my-7">
+                <p className="text-lg text-black-600 font-medium capitalize my-5 sm:my-7">
                   7 Pessoas
                 </p>
                 <ul className="flex flex-col list-inside pl-6 xl:pl-0 items-start justify-start text-left text-black-500 flex-grow">
