@@ -8,9 +8,9 @@ import ButtonOutline from "./misc/ButtonOutline.";
 
 // Mantenha o imagesMap aqui ou importe-o
 const imagesMap = {
-  "7p": ["/assets/7p/sala1.jpg", "/assets/7p/sala2.jpg", "/assets/7p/q1.jpg", "/assets/7p/q11.jpg", "/assets/7p/q2.jpg", "/assets/7p/q21.jpg", "/assets/7p/cozinha1.jpg", "/assets/7p/banheiro1.jpg"],
+  "7p": ["/assets/7p/sala1.jpg", "/assets/7p/sala2.jpg", "/assets/7p/q1.JPG", "/assets/7p/q11.jpg", "/assets/7p/q2.jpg", "/assets/7p/q21.jpg", "/assets/7p/cozinha1.jpg", "/assets/7p/banheiro1.jpg"],
   "8p": ["/assets/8p/sala.jpg", "/assets/8p/q1.jpg", "/assets/8p/q2.jpg", "/assets/8p/q3.jpg", "/assets/8p/cozinha1.jpg", "/assets/8p/banheiro.jpg"],
-  "10p": ["/assets/10p/sala2.jpg", "/assets/10p/sala1.jpg", "/assets/10p/q1.jpg", "/assets/10p/q2.jpg", "/assets/10p/q3.jpg", "/assets/10p/banheiro.jpg", "/assets/10p/sacada.jpg", "/assets/10p/sacada12.jpg"],
+  "10p": ["/assets/10p/sala2.jpg", "/assets/10p/sala1.jpg", "/assets/10p/q1.JPG", "/assets/10p/q12.jpg", "/assets/10p/q2.jpg", "/assets/10p/q3.JPG", "/assets/10p/banheiro.jpg", "/assets/10p/sacada.JPG", "/assets/10p/sacada12.jpg"],
 };
 
 // Se precisar do ButtonOutline, importe-o. Se não, use botões padrão.
