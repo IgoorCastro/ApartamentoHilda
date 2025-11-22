@@ -4,7 +4,7 @@ import { useRouter } from "next/router";
 
 // Default value for some meta data
 const defaultMeta = {
-  title: 'Apartamentos Hilda',
+  title: 'Apartamento Hilda – Hospedagem em Aparecida-SP',
   siteName: 'Apartamentos Hilda',
   description:
     'Apartamentos para 10, 8 e 7 pessoas próximo a Basilica de Aparecida.',
