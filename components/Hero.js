@@ -40,7 +40,7 @@ const Hero = ({
                 Sua melhor estadia em <strong>Aparecida-SP</strong> começa aqui.
               </h1>
               <p className="text-black-500 mt-4">
-                Apartamentos para 10, 8 e 7 pessoas, com excelentes avaliações no <strong className="underline"><a href="https://www.airbnb.com.br/users/show/227188859" target="_blank">Aribnb</a></strong> e <strong className="underline"><a href="https://www.booking.com/hotel/br/apartamento-para-10-pessoas-proximo-a-basilica.pt-br.html" target="_blank">Booking</a></strong>.
+                Apartamentos para 10, 8 e 7 pessoas, com excelentes avaliações no <strong className="underline"><a href="https://www.airbnb.com.br/users/show/227188859" target="_blank">Airbnb</a></strong> e <strong className="underline"><a href="https://www.booking.com/hotel/br/apartamento-para-10-pessoas-proximo-a-basilica.pt-br.html" target="_blank">Booking</a></strong>.
               </p>
               <p className="text-black-500 mb-6">
                 Reservando diretamente pelo nosso site, você garante <strong>10% de desconto</strong> na sua estadia de segunda a quinta feira..
